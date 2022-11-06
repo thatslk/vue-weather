@@ -1,7 +1,7 @@
 # Vue Weather
 
 
-Solution for second task (Weather App) from the 7th week of Artsofte's JS/TS course at the Ural Federal University named after fri B.N. Yeltsin.
+Solution for second task (Weather App) from the 7th week of Artsofte's JS/TS course at the Ural Federal University named after B.N. Yeltsin.
 
 This project contains following features:
 
@@ -9,7 +9,7 @@ This project contains following features:
 * Current time in locations
 * Map of spicifed locations
 
-This project use free versions of Yandex.Maps API and AccuWeather API. The project is built on VueJS and uses [axios](https://github.com/axios/axios) and [vue-yandex-maps](https://github.com/PNKBizz/vue-yandex-map) libraries.
+This project uses free versions of the Yandex.Maps API and AccuWeather API. The project is built on VueJS and uses [axios](https://github.com/axios/axios) and [vue-yandex-maps](https://github.com/PNKBizz/vue-yandex-map) libraries.
 
 Checkout Vue Weather now: 
 
